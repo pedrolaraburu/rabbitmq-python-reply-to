@@ -1,0 +1,1 @@
+# POC Rabbit MQ Python

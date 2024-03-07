@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "rabbitmq-python"
+version = "0.1.0"
+description = ""
+authors = ["Pedro Laraburu"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pika = "^1.3.2"
+psycopg2-binary = "^2.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
